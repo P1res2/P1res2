@@ -1,16 +1,26 @@
-## Hi there 👋
+# Oii, eu sou o Gabriel 🤓
 
-<!--
-**P1res2/P1res2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na UNIP (3º semestre), focado em me tornar desenvolvedor backend.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Estudando **Node.js + Express** e criando APIs
+* Quero aprender **TypeScript** em breve
+* Conhecimento básico em **Python**
+* Experiência com **Flutter/Dart**, onde já desenvolvi:
+
+  * [Um app para trabalho da faculdade](https://github.com/P1res2/flutter_techhelp.app)
+  * [Um app gerenciador de senhas](https://github.com/P1res2/Password-Manager)
+
+## 💻 Tecnologias que uso
+
+* **Node.js** (Express)
+* **JavaScript**
+* **Flutter / Dart**
+* **Python**
+
+## 🎯 Objetivos
+
+* Dominar desenvolvimento backend
+* Aprender TypeScript
+* Criar mais projetos reais
